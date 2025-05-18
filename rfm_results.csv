@@ -1,0 +1,11 @@
+customer_name,recency_days,recency_score,frequency,frequency_score,monetary_value,monetary_score,rfm_score,customer_segment
+"Emma Clark",91,2,16,5,20720.00,5,255,Other
+"Sophia Miller",122,1,7,4,2725.00,5,145,Other
+"Michael Brown",0,5,10,5,9905.00,5,555,Champion
+"John Doe",62,3,12,5,15285.00,5,355,Other
+"Olivia Wilson",62,3,11,5,13460.00,5,355,Other
+"Jane Smith",31,4,7,4,7250.00,5,445,Other
+"Emily Johnson",61,3,9,4,9855.00,5,345,Other
+"Daniel Harris",249,1,6,3,2670.00,5,135,Other
+"David Lee",62,3,3,2,4550.00,5,325,Other
+"Chris White",62,3,7,4,2110.00,5,345,Other
